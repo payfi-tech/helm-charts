@@ -3,6 +3,16 @@ entries:
   payfi:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2022-08-20T06:34:50.894812133Z"
+    description: A Helm chart for Kubernetes
+    digest: 5711f973a358e846f281d058e8122dad226c808a68547260d5e9881058b677d3
+    name: payfi
+    type: application
+    urls:
+    - https://github.com/payfi-tech/helm-charts/releases/download/payfi-1.0.0/payfi-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2022-08-20T06:18:16.293319319Z"
     description: A Helm chart for Kubernetes
     digest: d357b961cd84ca7d02656afc10eac33979d9246af3416d4ec4ccf99bf6730fc1
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/payfi-tech/helm-charts/releases/download/payfi-0.1.0/payfi-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-20T06:18:16.29332482Z"
+generated: "2022-08-20T06:34:50.89502774Z"
