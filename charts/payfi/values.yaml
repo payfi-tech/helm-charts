@@ -40,6 +40,8 @@ service:
     name: TCP
     http: 80
     https: 443
+  annotations:
+    enabled: false # set to `false` for apis using http/2
 
 # Environment Variables sources
 env:
